@@ -3,5 +3,5 @@
 
 export default {
   date: new Date(1667606399000),
-  reason: 'forgot to renew their archived forums\' SSL cert'
+  reason: '忘记了更新论坛归档的 SSL 证书',
 }
